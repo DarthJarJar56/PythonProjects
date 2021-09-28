@@ -1,1 +1,1 @@
-My python projects
+This repository hosts all of my projects written in Python. In each directory, you will find a .txt file relating specifically to the project detailing what it is, how it works, and the thought process behind it. 
