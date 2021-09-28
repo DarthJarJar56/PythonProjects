@@ -1,5 +1,5 @@
-This is a ToDo List interface that is hosted fully within the command line. It works with a menu system that allows for a variety of ToDo list management, including adding new tasks
-removing tasks, and clearing the list. 
+This is a ToDo List interface that is hosted fully within the command line. It works with a menu system that allows for a variety of ToDo list management, 
+including adding new tasks, removing tasks, and clearing the list. 
 
 How to use:
 Download the todo.py file and place it in its own directory or on your Desktop. Keep in mind, this program will be creating a "todo.txt" file, and will require
