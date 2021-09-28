@@ -1,0 +1,25 @@
+This is a ToDo List interface that is hosted fully within the command line. It works with a menu system that allows for a variety of ToDo list management, including adding new tasks
+removing tasks, and clearing the list. 
+
+How to use:
+Download the todo.py file and place it in its own directory or on your Desktop. Keep in mind, this program will be creating a "todo.txt" file, and will require
+this txt file to be in the same directory as "todo.py". Just double click the python file and the application will start. 
+
+Adding a task:
+To add a task, you first need to make sure you have a ToDo List already. To do this, select the first option on the main menu and add your first task. 
+If you already have a ToDo List created, the program will let you know and return you back to the main menu. To add tasks to your list, select option 2
+on the main menu to open the ToDo List editing menu. From here, select the first option and type the task you want to add. Adding the task will return you 
+back to the editing menu so you can either add more or return to the main menu.
+
+Deleting a task: 
+To delete a task, you should enter the editing menu by selecting option 2 on the main menu. From here, you would select option 2 again. Type out the 
+task that you want to delete from the list and hit enter. (NOTE: All tasks are case-sensitive, so you need to type the task correctly to delete it,
+otherwise the program will say that it does not exist). 
+
+Clearing a ToDo list: 
+To clear your list, enter the editing menu and select option 3. The program will prompt you to confirm whether you would really like to clear your list,
+this option erases everything in the todo.txt file, so it cannot be undone.
+
+Display current todo list:
+The 3rd option on the main menu will print the contents of "todo.txt" to the command line. This allows you to keep track of what you still have on your list
+and allows you to double check for case-sensitivity when attempting to delete tasks. 
